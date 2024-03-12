@@ -1,0 +1,18 @@
+﻿# Diretórios de saída
+bin/
+obj/
+
+# Arquivos específicos do usuário do Visual Studio
+*.user
+*.userosscache
+*.suo
+*.csproj
+
+# Pasta do Visual Studio
+.vs/
+
+# Pacotes NuGet
+packages/
+
+# Arquivos de símbolos de depuração
+*.pdb
